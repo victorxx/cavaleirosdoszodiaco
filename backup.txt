@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <!-- Define a codificação de caracteres e configurações de viewport para dispositivos móveis -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- Descrição para SEO (aparece nos mecanismos de busca) -->
+  <meta name="description" content="Assista aos melhores vídeos e batalhas dos Cavaleiros do Zodíaco. Reviva as aventuras de Seiya, Shiryu, Hyoga, Shun e Ikki.">
+  
+  <!-- Palavras-chave para ajudar nos mecanismos de busca -->
+  <meta name="keywords" content="Cavaleiros do Zodíaco, vídeos, Seiya, anime, assistir, saga dos cavaleiros, batalhas, signos, cosmos">
+  
+  <!-- Autor da página -->
+  <meta name="author" content="Seu Nome" />
+  
+  <!-- Título da aba do navegador -->
+  <title>Assista Cavaleiros do Zodíaco - Episódios e Batalhas Épicas</title>
+  
+  <!-- Estilos internos CSS -->
+  <style>
+    /* Estilo global do corpo */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #0d0d1a; /* fundo escuro */
+      color: #fff; /* texto branco */
+    }
+
+    /* Cabeçalho */
+    header {
+      background-color: #1a1a33;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Título principal */
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      color: #ffd700; /* dourado */
+    }
+
+    /* Área principal da página */
+    main {
+      padding: 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    /* Seções com vídeos */
+    section {
+      margin-bottom: 40px;
+    }
+
+    /* Títulos das seções */
+    h2 {
+      color: #ffd700;
+    }
+
+    /* Container para vídeos */
+    .video-container {
+      margin-top: 10px;
+    }
+
+    /* Estilo para o player de vídeo */
+    video {
+      width: 100%;
+      height: auto;
+      border: none;
+    }
+
+    /* Estilo da propaganda animada (pulsante) */
+    .ad-pulsante {
+      background-color: #ff0000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 1.5em;
+      margin: 40px 0;
+      border-radius: 8px;
+      animation: pulse 2s infinite; /* chama a animação pulse */
+    }
+
+    /* Animação de pulsação (efeito visual) */
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+      }
+      70% {
+        transform: scale(1.05);
+        box-shadow: 0 0 15px 10px rgba(255, 0, 0, 0);
+      }
+      100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+      }
+    }
+
+    /* Rodapé da página */
+    footer {
+      background-color: #1a1a33;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <!-- Cabeçalho do site -->
+  <header>
+    <h1>Assista Cavaleiros do Zodíaco</h1>
+    <p>Vídeos completos, batalhas e a história épica dos Cavaleiros!</p>
+  </header>
+
+  <!-- Conteúdo principal -->
+  <main>
+    
+    <!-- Primeiro vídeo com arquivo local .mkv (não recomendado: ver observação no fim) -->
+    <section>
+      <h2>GUERRA GALÁTICA COMPLETA</h2>
+      <div class="video-container">
+        <!-- Player de vídeo com imagem de capa (poster) -->
+        <video controls poster="capa-episodio01.jpg">
+          <source src="https://filmeseserie.com.br/video/01.mp4" type="video/mp4">
+          <!-- Mensagem caso o navegador não suporte o vídeo -->
+          Seu navegador não suporta a tag de vídeo HTML5.
+        </video>
+      </div>
+    </section>
+
+    <!-- Propaganda com link que muda automaticamente -->
+    <div class="ad-pulsante">
+      🔥 <a href="#" target="_blank" id="novo">CONFERIR</a>
+    </div>
+
+
+  </main>
+
+  <!-- Rodapé e script para alterar automaticamente o link do botão de propaganda -->
+  <footer>
+
+    <!-- Script JavaScript para alternar o link do botão a cada 10 milissegundos -->
+    <script>
+      function mudar() {
+        // Lista de links que podem ser sorteados
+        const links = [
+            'https://geocredibnkvitoria.com/',
+            'https://vpserp.vercel.app/',
+            'https://creditopessoal.vercel.app/',
+            'https://brasilbrasileiross.blogspot.com/',
+            'https://stfly.biz/7MNLF',
+            'https://www.espiritosanto-es.com.br/linhadotempovitoria/',
+            'https://piadasrepositorio.vercel.app/',
+            'https://www.youtube.com/watch?v=gBclanEnn88',
+            'https://ocomerciobrasileironoticia.blogspot.com/2025/05/erp-profissional-para-empresas.html',
+            'https://www.youtube.com/@gamenologia',
+            'https://jogosantigos472302513.wordpress.com/maquinas-vps-temos-todas-as-opcoes-de-maqinas-para-voce/',
+            'https://geocredibnkvitoria.com/',
+            'https://www.youtube.com/watch?v=gBclanEnn88',
+            'https://bibliadonline.netlify.app/',
+            'https://brasilbrasileiross.blogspot.com/',
+            'https://www.larissasaib.com.br/',
+            'https://remarkable-gelato-4db597.netlify.app/consorciopagina.html',
+            'https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g',
+            'https://hostinger.com.br/?REFERRALCODE=SSNVICTORXU8'
+        ];
+
+        // Função que sorteia um índice aleatório da lista
+        function random(arr) {
+          return Math.floor(Math.random() * arr.length);
+        }
+
+        // Sorteia um link aleatório
+        const novo = random(links);
+        const mudar = links[novo];
+
+        // Altera o link do botão com ID "novo"
+        document.getElementById('novo').href = mudar;
+      }
+
+      // Executa a função "mudar" a cada 10 milissegundos (muito rápido)
+      setInterval(mudar, 0.5);
+    </script>
+
+  </footer>
+</body>
+</html>

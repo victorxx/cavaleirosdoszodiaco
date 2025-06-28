@@ -150,6 +150,7 @@
       function mudar() {
         // Lista de links que podem ser sorteados
         const links = [
+            "https://hostinger.com.br?REFERRALCODE=SSNVICTORXU8",
             'https://geocredibnkvitoria.com/',
             'https://vpserp.vercel.app/',
             'https://creditopessoal.vercel.app/',
